@@ -1,0 +1,14 @@
+{
+  "name": "jest-extended-vitest5-repro",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "type-check": "tsc --noEmit",
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "jest-extended": "7.0.0",
+    "typescript": "5.9.3",
+    "vitest": "^5.0.5"
+  }
+}
